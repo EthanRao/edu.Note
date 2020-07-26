@@ -116,10 +116,16 @@ Learning Note
 ## SQL
 
     Accesss
+    
+    MySQL
+    
+    Orcale
 
 ## Swift
     
     基础语法
+    
+    Issues
     
 ## Tableau
     
