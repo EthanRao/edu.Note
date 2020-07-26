@@ -1,46 +1,46 @@
 # edu.Note
 Learning Note
 
-## Algorithm
+    ## Algorithm
     
-## Booke
+    ## Booke
 
-## Data struture
+    ## Data struture
 
-## Deep learning
+    ## Deep learning
 
-## Git
+    ## Git
 
-## idea
+    ## idea
 
-## Internet
+    ## Internet
   
-## JAVA
+    ## JAVA
   
-## JavaScript
+    ## JavaScript
 
-## Linux
+    ## Linux
 
-## Machine Learning
+    ## Machine Learning
 
-## Python
+    ## Python
   
-## R
+    ## R
 
-## React
+    ## React
 
-## Redis
+    ## Redis
 
-## Ruby
+    ## Ruby
 
-## Spring Boot
+    ## Spring Boot
 
-## Spring Cloud
+    ## Spring Cloud
 
-## SQL
+    ## SQL
 
-## Swift
+    ## Swift
 
-## Tableau
+    ## Tableau
 
-## Vue
+    ## Vue
