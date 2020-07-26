@@ -1,135 +1,250 @@
 # edu.Note
-Learning Note
+
+    Learning Note 学习笔记
 
 ## Algorithm
 
-    排序算法
+   + 排序算法
     
 ## Booke
-    收集的相关书籍
+    
+   >收集的相关书籍
     
 ## Data struture
 
-    数组
+   + Array 数组
     
-    栈
+   + Stack 栈
     
-    队列
+   + Queue 队列
     
-    链表
+   + Linked List 链表
     
-    图
+   + Graph 图
     
-    树
+   + Tree 树
     
-    前缀树
+   + Trie 前缀树
     
-    哈希表
+   + Hash Table 哈希表
+   
+   + Hash Map
     
 ## Deep learning
     
-    PyTorch 
-    TensorFlow
+   + PyTorch 
+    
+   + TensorFlow
     
 ## Git
 
-    git操作
+   + git总结
 
 ## idea
     
-    灵光一现
+   + 灵光一现
     
 ## Internet
     
-    TCP
+   + TCP
     
-    UDP
+   + UDP
     
-    HTTP
+   + HTTP
     
-    HTTPS
+   + HTTPS
+   
+   + 三次握手 & 四次握手
     
 ## JAVA
     
-    基础语法
+   + 基础语法
     
-    JDBC
+   + Web Crawler 网络爬虫
+   
+   + JDBC
     
-    JVM
+   + JVM
     
-    Maven
+   + Maven
     
-    中间件
+   + Middleware 中间件
     
-    新特性
+   + New Features 新特性
+        
+        + Java 8
+        
+        + Java 13
     
-    UML
+   + UML
+        
+        + Activity Diagram
+        
+        + Class Diagram
+        
+        + Communication Diagram
+        
+        + Component Diagram
+        
+        + Deployment Diagram
+        
+        + Object Diagram
+        
+        + Sequence Diagram
+        
+        + State Diagram
+        
+        + Use Case Diagram
     
 ## JavaScript
     
-    基础语法
+   + 基础语法
     
 ## Linux
     
-    Operation System Kernel
+   + Basic
+   
+   + Operation System Kernel
     
-    Docker容器
+   + Docker 容器
     
-    Unix
+   + Unix
     
 ## Machine Learning
     
-    机器学习
-
+   >CMU 10601
+   
+   >Cousera - Andrew Ng - Machine learning
+   
 ## Python
-
-    NumPy 
+   
+   + 基础语法
+   
+   + Web Crawler 网络爬虫
+   
+   + NumPy 
     
-    Pandas
+   + Pandas
+   
+   + Matplotlib
   
 ## R
     
-    基础语法
+   + 基础语法
     
-    实战分析项目
+   + 实战分析项目
 
 ## React
     
-    模板
+   + Basic 
+        
+        + Hello World
+        
+        + JSX
+        
+        + Mixin
+        
+        + Refs & DOM
+        
+        + API
+        
+        + Synthetic Event
+        
+        + Inheritance
+        
+        + Fragment
+        
+        + Composition & Props
+        
+        + Strict Mode
+        
+        + Web Components
+        
+        + Higher-Order Components
+        
+        + Error Boundaries
     
 ## Redis
+   
+   + Basic
+   
+        + String
+        
+        + Hash
+        
+        + List
+        
+        + Set
+        
+        + Sorted Set
+        
+   + LRU
+   
+   + Cluster
+   
+   + Functions
+        
+        + Bitmap
+        
+        + HyperLogLog
+        
+        + Geospatial
+        
+        + Pub & Sub
+        
+        + Pipeline
+        
+        + LUA
+        
+        + Transaction
+        
+   + Persistence 持久化
+        
+        + RDB
+        
+        + AOF
     
-    分布式开发
+   + New Features
+    
+   + Application Issues
     
 ## Ruby
 
-    基础语法
+   + 基础语法
+   
+   + Hello World
+   
+   + Rails
+   
 
 ## Spring Boot
     
-    Issues
+   + Application Issues
     
 ## Spring Cloud
     
-    Issues
+   + Issues
     
 ## SQL
 
-    Accesss
+   + Accesss
     
-    MySQL
-    
-    Orcale
+   + MySQL
+   
+        + 基础语法 
+   
+   + Orcale
+        + 基础语法
 
 ## Swift
     
-    基础语法
+   + 基础语法
     
-    Issues
+   + Issues
     
 ## Tableau
     
-    Issues
+   + Issues
     
 ## Vue
-    模板
+   + 模板
