@@ -3,7 +3,7 @@ Learning Note
 
 ## Algorithm
 
-    ### 排序算法
+    排序算法
     
 ## Booke
     收集的相关书籍
@@ -16,14 +16,17 @@ Learning Note
     
     深度学习 
     
-    PyTorch TensorFlow
+    PyTorch 
+    TensorFlow
     
 ## Git
 
-    ### git操作
+    git操作
 
 ## idea
-
+    
+    灵光一现
+    
 ## Internet
     
     TCP
@@ -73,9 +76,15 @@ Learning Note
     Pandas
   
 ## R
+    
+    基础语法
+    
+    实战分析项目
 
 ## React
-
+    
+    模板
+    
 ## Redis
     
     分布式开发
@@ -101,6 +110,8 @@ Learning Note
     基础语法
     
 ## Tableau
-
+    
+    Issues
+    
 ## Vue
     模板
