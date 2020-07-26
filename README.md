@@ -1,88 +1,46 @@
 # edu.Note
 Learning Note
 
-# Algorithm
-
-  ## Basic
+## Algorithm
     
-    ### Binary Tree
-    
-    ### Sorting
-    
-# Booke
+## Booke
 
-# Data struture
+## Data struture
 
-# Deep learning
+## Deep learning
 
-  ## PyTorch
-  
-  ## TensorFlow
+## Git
 
-# Git
+## idea
 
-# idea
+## Internet
+  
+## JAVA
+  
+## JavaScript
 
-# Internet
-  
-  ## TCP
-  
-  ## UDP
-  
-  ## Internet
-  
-# JAVA
-  
-  ## Basic
-  
-  ## JDBC
-  
-  ## JVM
-  
-  ## Maven
-  
-  ## Middleware
-  
-  ## New Features
-  
-  ## UML
-  
-# JavaScript
+## Linux
 
-# Linux
+## Machine Learning
 
-# Machine Learning
-
-# Python
+## Python
   
-  ## Basic
-  
-  ## NumPy
-  
-  ## Pandas
-  
-# R
+## R
 
-# React
+## React
 
-# Redis
+## Redis
 
-# Ruby
+## Ruby
 
-# Spring Boot
+## Spring Boot
 
-# Spring Cloud
+## Spring Cloud
 
-# SQL
+## SQL
 
-  ## Access
-  
-  ## Microservices
-  
-  ## MySQL
+## Swift
 
-# Swift
+## Tableau
 
-# Tableau
-
-# Vue
+## Vue
