@@ -3,20 +3,50 @@ Learning Note
 
 # Algorithm
 
+  ## Basic
+    
+    ### Binary Tree
+    
+    ### Sorting
+    
 # Booke
 
 # Data struture
 
 # Deep learning
 
+  ## PyTorch
+  
+  ## TensorFlow
+
 # Git
 
 # idea
 
 # Internet
-
+  
+  ## TCP
+  
+  ## UDP
+  
+  ## Internet
+  
 # JAVA
-
+  
+  ## Basic
+  
+  ## JDBC
+  
+  ## JVM
+  
+  ## Maven
+  
+  ## Middleware
+  
+  ## New Features
+  
+  ## UML
+  
 # JavaScript
 
 # Linux
@@ -24,7 +54,13 @@ Learning Note
 # Machine Learning
 
 # Python
-
+  
+  ## Basic
+  
+  ## NumPy
+  
+  ## Pandas
+  
 # R
 
 # React
@@ -38,6 +74,12 @@ Learning Note
 # Spring Cloud
 
 # SQL
+
+  ## Access
+  
+  ## Microservices
+  
+  ## MySQL
 
 # Swift
 
