@@ -9,12 +9,24 @@ Learning Note
     收集的相关书籍
     
 ## Data struture
+
+    数组
     
-    数据结构
+    栈
+    
+    队列
+    
+    链表
+    
+    图
+    
+    树
+    
+    前缀树
+    
+    哈希表
     
 ## Deep learning
-    
-    深度学习 
     
     PyTorch 
     TensorFlow
